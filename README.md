@@ -23,5 +23,5 @@
 
 1. **Clonar el Repositorio:**
    ```bash
-   git clone https://github.com/<tu-usuario>/my-photo-studio.git
+   git clone https://github.com/<lucasmarinskiba>/my-photo-studio.git
    cd my-photo-studio
